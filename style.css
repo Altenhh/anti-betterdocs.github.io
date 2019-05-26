@@ -107,7 +107,7 @@ body {
 
 .code {
     background: linear-gradient(45deg, rgb(114, 137, 218), rgb(102, 123, 193));
-    box-shadow: rgba(114, 137, 218, 0.7) 0px 0px 100px;
+    box-shadow: rgba(114, 137, 218, 0.3) 0px 0px 20px;
     border-radius: 3px 0px 0 3px;
     color: #fff;
     page-break-inside: avoid;
@@ -221,7 +221,7 @@ canvas {
 
 .copycode {
     background: linear-gradient(45deg, #43b581, #359067);
-    box-shadow: #43b581 0px 0px 100px;
+    box-shadow: rgba(67, 181, 129, 0.4) 0px 0px 30px;
     border-radius: 0 3px 3px 0;
     color: #fff;
     font-size: 12px;
